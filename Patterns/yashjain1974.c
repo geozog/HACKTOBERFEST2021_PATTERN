@@ -7,6 +7,7 @@
 // Comment 6
 // Comment 7
 // Comment 8
+// Comment 9
 #include<stdio.h>
 int main(){
     int rows=6;
