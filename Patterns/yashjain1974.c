@@ -1,5 +1,10 @@
 // Comment 3
 // Comment 2
+<<<<<<< Updated upstream
+=======
+// Comment 3
+// Comment 4
+>>>>>>> Stashed changes
 #include<stdio.h>
 // Comment 1
 int main(){
