@@ -1,12 +1,5 @@
-// Comment 3
-// Comment 2
-<<<<<<< Updated upstream
-=======
-// Comment 3
-// Comment 4
->>>>>>> Stashed changes
-#include<stdio.h>
 // Comment 1
+// Comment 2
 int main(){
     int rows=6;
    for(int i=0;i<=rows;i++){
