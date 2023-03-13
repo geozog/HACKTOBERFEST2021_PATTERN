@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 // Comment 1
 // Comment 2
+// Comment 3
+// Comment 4
+#include<stdio.h>
 int main(){
     int rows=6;
    for(int i=0;i<=rows;i++){
