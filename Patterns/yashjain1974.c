@@ -1,3 +1,4 @@
+// Comment 2
 #include<stdio.h>
 int main(){
     int rows=6;
